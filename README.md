@@ -1,10 +1,10 @@
 # LOOT-RPG-v1.0
 Kill bosses, get LOOT!
-
+-01/10/18
 This is my first game made in Javacsript, jquery and bootstrap. It took me about a week or two I think, it taught me a lot about
 naming variables, keeping a clean code and how to navigate through a lot of code!
 
-That's because before this project, I only ever did small challenges on freecodecamp or codewars. 
+That's because before this project, I only ever did small challenges on freecodecamp or codewars.
 
 Now about the game, some important things to know:
 
@@ -23,5 +23,3 @@ stat
 
 I was a bit lazy on some parts, but that's msotly because I made this game for myself. The only thing missing is probably balance,
 i fixed the balance issue by making players choose boss level, so if it's too easy, you can always try fighting stronger bosses!
-
-
